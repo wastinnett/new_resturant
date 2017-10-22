@@ -1,66 +1,13 @@
-body{
-  background-color: #E8CB38;
-  padding-top: 10px;
-  padding-bottom: 50px;
-  margin-left: 200px;
-  margin-right: 150px;
-}
-
-#header{
-  height:100px;
-  border-style: none;
-}
-ul {
-    position: fixed;
-    top: 0;
-    width: 100%;
-    list-style-type: none;
-    margin: 10;
-    padding: 10;
-    overflow: hidden;
-}
-li {
-    float: left;
-}
-li a {
-    display: flex;
-    color: black;
-    text-align: center;
-    padding: 14px 16px;
-    text-decoration: none;
-}
-/* Change the link color to #8b0000 on hover */
-li a:hover {
-    background-color: #8B0000;
-}
-li a:active {
-  background-color: #8B0000;
-}
-
-#content{
-  margin-left:210px;
-}
-
-.box-one{
-    height: 650px;
-    width: 95%;
-    background-color: white;
-}
-}
-
-
-
 
 /*--------------------------------*/
-
 h2{
-  font-family: '';
+  font-family: 'Prata', sans-serif;
   font-size: 35px;
   text-align: center;
-  color:grey;
+  color:#8B0000;
 }
 
 p{
-  font-family: 'Arial', sans-serif;
+  font-family: sans-serif;
   font-size: 16px;
 }
