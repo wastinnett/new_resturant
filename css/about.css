@@ -28,24 +28,32 @@ li a {
     text-align: center;
     padding: 14px 16px;
     text-decoration: none;
+
 }
 /* Change the link color to #8b0000 on hover */
 li a:hover {
     background-color: #8B0000;
+    color:white;
+    text-decoration: none;
 }
 li a:active {
   background-color: #8B0000;
 }
+
+#active-page{
+  background-color: #8B0000;
+}
+
+
 
 #content{
   margin-left:210px;
 }
 
 .box-one{
-    height: 650px;
+
     width: 95%;
     background-color: white;
-}
 }
 
 
@@ -53,13 +61,23 @@ li a:active {
 
 /*--------------------------------*/
 h1{
-  font-family: 'Bodoni Poster';
+  font-family: 'Prata', serif;
   font-weight: bold;
   color:#8B0000;
+
+  padding-left: 20px;
+  padding-top: 20px;
+  border-bottom-width: 25px;
+  padding-bottom: 25px;
+
 }
 
 p{
   font-family: "Arial", sans-serif;
   font-size: 25px;
 
+}
+
+#page-image{
+  margin-bottom: 20px;
 }

@@ -6,7 +6,6 @@ body{
   margin-right: 150px;
 }
 
-
 #header{
   height:100px;
   border-style: none;
@@ -29,57 +28,58 @@ li a {
     text-align: center;
     padding: 14px 16px;
     text-decoration: none;
+
 }
 /* Change the link color to #8b0000 on hover */
 li a:hover {
     background-color: #8B0000;
+    color:white;
+    text-decoration: none;
 }
 li a:active {
   background-color: #8B0000;
 }
+
+#active-page{
+  background-color: #8B0000;
+}
+
+
 
 #content{
   margin-left:210px;
 }
 
 .box-one{
-  border-color: #8B0000;
-  padding:10px;
+
+    width: 95%;
+    background-color: white;
 }
 
-#annoying-box{
-  position: absolute;
-  top:700px;
-  left:680px;
 
-  border:5px solid red;
-  color: red;
-  width: 100px;
-  height:75px;
-
-}
 
 
 /*--------------------------------*/
 h1{
-  font-family: 'Bodoni Poster';
-  font-size: 150px;
-  text-align: center;
-  color:#8B0000;
+  font-family: 'Prata', serif;
   font-weight: bold;
-}
-h2{
-  font-family: 'Bodoni Poster';
-  font-size: 35px;
-  text-align: center;
-  color:#8b0000;
+  color:#8B0000;
+  font-size: 72px;
+  padding-left: 20px;
+  padding-top: 20px;
+  border-bottom-width: 25px;
+  padding-bottom: 25px;
+
 }
 
 p{
-  font-family: 'Open Sans Condensed', sans-serif;
-  font-size: 1.0em;
+  font-family: "Arial", sans-serif;
+  font-size: 25px;
+
 }
 
-div{
-  border:2px solid red;
+#menu-shortcut{
+  color: #8B0000;
+  font-family: sans-serif;
+  font-size: 25px;
 }
