@@ -1,4 +1,11 @@
+#choice-option{
+  list-style-type: circle;
+  background: none;
+}
 
+#list-option{
+  float: none;
+}
 /*--------------------------------*/
 h2{
   font-family: 'Prata', sans-serif;
