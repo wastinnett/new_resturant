@@ -16,7 +16,7 @@ ul {
     list-style-type: none;
     margin-right: 53px;
     overflow: hidden;
-    background-color: #333;
+    background-color: silver;
 }
 
 li {
@@ -44,7 +44,7 @@ li a:hover {
 
 
 #active-page{
-  background-color: white;
+  background-color: black;
 }
 
 #content{
