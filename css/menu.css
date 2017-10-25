@@ -21,6 +21,8 @@ p{
 .menu-time{
   text-align: right;
   font-style: italic;
+  padding-left: 185px;
+  font-weight: bold;
 }
 
 .menu-name{
