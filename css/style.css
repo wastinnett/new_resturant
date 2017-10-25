@@ -14,7 +14,7 @@ body{
 ul {
     top: 25px;
     list-style-type: none;
-    margin-right: 53px;
+    margin-right: 105px;
     overflow: hidden;
     background-color: silver;
 }
@@ -55,7 +55,7 @@ li a:hover {
 }
 
 .box-one{
-    width: 95%;
+    width: 90%;
     background-color: white;
 }
 
@@ -73,7 +73,6 @@ h1{
   border-bottom-width: 25px;
   padding-bottom: 25px;
   text-align: center;
-
 }
 
 p{
