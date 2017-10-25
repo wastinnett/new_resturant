@@ -17,3 +17,14 @@ p{
   font-family: sans-serif;
   font-size: 16px;
 }
+
+.menu-time{
+  text-align: center;
+  font-style: italic;
+}
+
+.menu-name{
+  font-style: italic;
+  font-size: 20px;
+  color: #8B0000;
+}
